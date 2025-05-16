@@ -150,8 +150,8 @@ export function PasswordGeneratorCard() {
           </div>
           <Slider
             id="length"
-            min={6}
-            max={64}
+            min={4}
+            max={128}
             step={1}
             value={[passwordLength]}
             onValueChange={(value) => setPasswordLength(value[0])}
