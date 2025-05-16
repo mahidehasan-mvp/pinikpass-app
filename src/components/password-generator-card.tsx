@@ -104,7 +104,7 @@ export function PasswordGeneratorCard() {
   return (
     <Card className="w-full max-w-md shadow-xl">
       <CardHeader>
-        <CardTitle className="text-3xl font-bold text-center">PassForge</CardTitle>
+        <CardTitle className="text-3xl font-bold text-center">PINIKPASS</CardTitle>
         <CardDescription className="text-center">
           Generate secure, random passwords with ease.
         </CardDescription>

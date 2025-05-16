@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'PassForge - Secure Password Generator',
+  title: 'PINIKPASS - Secure Password Generator',
   description: 'Generate secure, random passwords with customizable options.',
 };
 
